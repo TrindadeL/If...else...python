@@ -1,0 +1,6 @@
+resultado = int(input('Digite o valor escolhido: '))
+
+if (resultado <= 100):
+    print('false')
+else:
+    print('true')
